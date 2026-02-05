@@ -1,137 +1,122 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <title>Perfil - Vanderson Pinheiro</title>
+<h1 align="center">👨‍💻 Vanderson Pinheiro</h1>
+<h3 align="center">Desenvolvedor de Software | Java • Node.js • React • Sistemas Corporativos</h3>
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background: #0d1117;
-            color: #c9d1d9;
-            margin: 0;
-            padding: 40px;
-        }
+---
 
-        .container {
-            max-width: 900px;
-            margin: auto;
-            background: #161b22;
-            border-radius: 8px;
-            padding: 20px;
-        }
+<style>
+/* ====== ESTILO DAS ABAS ====== */
+.tabs {
+  max-width: 900px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
 
-        h1 {
-            text-align: center;
-            color: #58a6ff;
-        }
+.tabs input {
+  display: none;
+}
 
-        /* Tabs */
-        .tabs {
-            display: flex;
-            border-bottom: 2px solid #30363d;
-            margin-bottom: 20px;
-        }
+.tabs label {
+  padding: 12px 20px;
+  background: #1f2937;
+  color: #fff;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 6px 6px 0 0;
+  font-weight: bold;
+}
 
-        .tab {
-            padding: 10px 20px;
-            cursor: pointer;
-            color: #8b949e;
-        }
+.tabs label:hover {
+  background: #374151;
+}
 
-        .tab.active {
-            color: #58a6ff;
-            border-bottom: 3px solid #58a6ff;
-            font-weight: bold;
-        }
+.tabs .tab {
+  display: none;
+  padding: 20px;
+  border: 1px solid #e5e7eb;
+  border-top: none;
+  background: #f9fafb;
+  border-radius: 0 6px 6px 6px;
+}
 
-        /* Conteúdo */
-        .tab-content {
-            display: none;
-        }
+#tab1:checked ~ .content #content1,
+#tab2:checked ~ .content #content2,
+#tab3:checked ~ .content #content3,
+#tab4:checked ~ .content #content4 {
+  display: block;
+}
 
-        .tab-content.active {
-            display: block;
-        }
+#tab1:checked + label,
+#tab2:checked + label,
+#tab3:checked + label,
+#tab4:checked + label {
+  background: #2563eb;
+}
+</style>
 
-        ul {
-            line-height: 1.8;
-        }
+<div class="tabs">
 
-        .badge {
-            display: inline-block;
-            background: #238636;
-            padding: 4px 8px;
-            border-radius: 6px;
-            margin: 4px;
-            font-size: 14px;
-        }
-    </style>
-</head>
-<body>
+<input type="radio" id="tab1" name="tabs" checked>
+<label for="tab1">👋 Sobre mim</label>
 
-<div class="container">
-    <h1>👋 Vanderson Pinheiro</h1>
+<input type="radio" id="tab2" name="tabs">
+<label for="tab2">🛠️ Tecnologias</label>
 
-    <div class="tabs">
-        <div class="tab active" onclick="openTab('sobre')">Sobre</div>
-        <div class="tab" onclick="openTab('skills')">Skills</div>
-        <div class="tab" onclick="openTab('projetos')">Projetos</div>
-        <div class="tab" onclick="openTab('contato')">Contato</div>
-    </div>
+<input type="radio" id="tab3" name="tabs">
+<label for="tab3">📂 Projetos</label>
 
-    <div id="sobre" class="tab-content active">
-        <p>
-            Desenvolvedor Backend com foco em <strong>Java</strong>, APIs REST,
-            automação de processos e sistemas web.
-        </p>
-        <p>
-            Formado em Análise e Desenvolvimento de Sistemas, sempre buscando
-            código limpo, boas práticas e soluções eficientes.
-        </p>
-    </div>
+<input type="radio" id="tab4" name="tabs">
+<label for="tab4">📫 Contato</label>
 
-    <div id="skills" class="tab-content">
-        <h3>💻 Tecnologias</h3>
-        <span class="badge">Java</span>
-        <span class="badge">Spring Boot</span>
-        <span class="badge">REST API</span>
-        <span class="badge">SQL</span>
-        <span class="badge">JavaScript</span>
-        <span class="badge">React</span>
-        <span class="badge">Node.js</span>
-        <span class="badge">Git</span>
-        <span class="badge">Linux</span>
-    </div>
+<div class="content">
 
-    <div id="projetos" class="tab-content">
-        <ul>
-            <li>Sistemas internos de gestão</li>
-            <li>APIs REST com Spring Boot</li>
-            <li>Automação de relatórios</li>
-            <li>Dashboards e painéis administrativos</li>
-        </ul>
-    </div>
-
-    <div id="contato" class="tab-content">
-        <p>📧 Email: seu-email@email.com</p>
-        <p>💼 LinkedIn: linkedin.com/in/seu-perfil</p>
-        <p>🐙 GitHub: github.com/seu-usuario</p>
-    </div>
+<div class="tab" id="content1">
+<p>
+Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com experiência
+no desenvolvimento de sistemas corporativos, automações e aplicações web.
+Atuo principalmente com <strong>Java, Node.js, React e bancos de dados</strong>.
+</p>
+<p>
+Tenho foco em soluções eficientes, organização de código e melhoria contínua
+de processos através da tecnologia.
+</p>
 </div>
 
-<script>
-    function openTab(tabId) {
-        const tabs = document.querySelectorAll('.tab');
-        const contents = document.querySelectorAll('.tab-content');
+<div class="tab" id="content2">
+<ul>
+  <li>☕ Java (Spring Boot, APIs REST)</li>
+  <li>🟢 Node.js & Express</li>
+  <li>⚛️ React / React Native</li>
+  <li>🗄️ MySQL, PostgreSQL, Firebase</li>
+  <li>🐧 Linux (Arch, EndeavourOS)</li>
+  <li>📊 Integrações, automações e sistemas internos</li>
+</ul>
+</div>
 
-        tabs.forEach(tab => tab.classList.remove('active'));
-        contents.forEach(content => content.classList.remove('active'));
+<div class="tab" id="content3">
+<ul>
+  <li>📌 Sistema de Helpdesk corporativo</li>
+  <li>📌 App web para gestão de inventário de TI</li>
+  <li>📌 Automação de relatórios e logs</li>
+  <li>📌 APIs REST para sistemas internos</li>
+</ul>
+<p>
+👉 Confira meus repositórios abaixo ⬇️
+</p>
+</div>
 
-        document.getElementById(tabId).classList.add('active');
-        event.target.classList.add('active');
-    }
-</script>
+<div class="tab" id="content4">
+<p>
+📧 Email: <strong>seuemail@email.com</strong><br>
+💼 LinkedIn: <a href="https://linkedin.com" target="_blank">linkedin.com/in/seuperfil</a><br>
+🐙 GitHub: <a href="https://github.com/seuusuario">github.com/seuusuario</a>
+</p>
+</div>
 
-</body>
-</html>
+</div>
+</div>
+
+---
+
+<p align="center">
+🚀 Sempre aprendendo, sempre evoluindo.
+</p>
