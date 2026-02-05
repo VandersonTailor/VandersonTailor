@@ -2,7 +2,7 @@
 <h3 align="center">💻 Desenvolvedor Java • Estudando Spring Boot, APIs REST e SQL • Backend & Automação de Sistemas Inteligentes</h3>
 
 <p align="center">
-  <img src="https://github.com/VandersonTailor/VandersonTailor/blob/main/julientromeur-cartoon-629.gif" width="400px" alt="GIF animado codando" />
+  <img src="https://github.com/VandersonTailor/VandersonTailor/blob/main/programar.gif" width="400px" alt="GIF animado codando" />
 </p>
 
 ---
