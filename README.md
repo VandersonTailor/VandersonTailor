@@ -1,122 +1,68 @@
-<h1 align="center">👨‍💻 Vanderson Pinheiro</h1>
-<h3 align="center">Desenvolvedor de Software | Java • Node.js • React • Sistemas Corporativos</h3>
+# 👋 Olá, eu sou o Vanderson Tailor
+
+💻 **Desenvolvedor Back-end Java**  
+🚀 Focado em APIs REST, sistemas corporativos e boas práticas de desenvolvimento
+
+Sou apaixonado por tecnologia e estou em constante evolução, buscando escrever código limpo, escalável e bem estruturado.
 
 ---
 
-<style>
-/* ====== ESTILO DAS ABAS ====== */
-.tabs {
-  max-width: 900px;
-  margin: 20px auto;
-  font-family: Arial, sans-serif;
-}
+## 🧠 Sobre mim
 
-.tabs input {
-  display: none;
-}
+- ☕ Trabalho principalmente com **Java**
+- 🌱 Estudando **Spring Boot** e ecossistema Spring
+- 🏗️ Interesse em **APIs REST**, arquitetura de software e sistemas corporativos
+- 📚 Sempre aprendendo e aprimorando minhas habilidades técnicas
+- 🎯 Objetivo: crescer como desenvolvedor Back-end e atuar em projetos desafiadores
 
-.tabs label {
-  padding: 12px 20px;
-  background: #1f2937;
-  color: #fff;
-  cursor: pointer;
-  margin-right: 5px;
-  border-radius: 6px 6px 0 0;
-  font-weight: bold;
-}
+---
 
-.tabs label:hover {
-  background: #374151;
-}
+## 🛠️ Tecnologias & Ferramentas
 
-.tabs .tab {
-  display: none;
-  padding: 20px;
-  border: 1px solid #e5e7eb;
-  border-top: none;
-  background: #f9fafb;
-  border-radius: 0 6px 6px 6px;
-}
-
-#tab1:checked ~ .content #content1,
-#tab2:checked ~ .content #content2,
-#tab3:checked ~ .content #content3,
-#tab4:checked ~ .content #content4 {
-  display: block;
-}
-
-#tab1:checked + label,
-#tab2:checked + label,
-#tab3:checked + label,
-#tab4:checked + label {
-  background: #2563eb;
-}
-</style>
-
-<div class="tabs">
-
-<input type="radio" id="tab1" name="tabs" checked>
-<label for="tab1">👋 Sobre mim</label>
-
-<input type="radio" id="tab2" name="tabs">
-<label for="tab2">🛠️ Tecnologias</label>
-
-<input type="radio" id="tab3" name="tabs">
-<label for="tab3">📂 Projetos</label>
-
-<input type="radio" id="tab4" name="tabs">
-<label for="tab4">📫 Contato</label>
-
-<div class="content">
-
-<div class="tab" id="content1">
-<p>
-Sou formado em <strong>Análise e Desenvolvimento de Sistemas</strong>, com experiência
-no desenvolvimento de sistemas corporativos, automações e aplicações web.
-Atuo principalmente com <strong>Java, Node.js, React e bancos de dados</strong>.
-</p>
-<p>
-Tenho foco em soluções eficientes, organização de código e melhoria contínua
-de processos através da tecnologia.
-</p>
-</div>
-
-<div class="tab" id="content2">
-<ul>
-  <li>☕ Java (Spring Boot, APIs REST)</li>
-  <li>🟢 Node.js & Express</li>
-  <li>⚛️ React / React Native</li>
-  <li>🗄️ MySQL, PostgreSQL, Firebase</li>
-  <li>🐧 Linux (Arch, EndeavourOS)</li>
-  <li>📊 Integrações, automações e sistemas internos</li>
-</ul>
-</div>
-
-<div class="tab" id="content3">
-<ul>
-  <li>📌 Sistema de Helpdesk corporativo</li>
-  <li>📌 App web para gestão de inventário de TI</li>
-  <li>📌 Automação de relatórios e logs</li>
-  <li>📌 APIs REST para sistemas internos</li>
-</ul>
-<p>
-👉 Confira meus repositórios abaixo ⬇️
-</p>
-</div>
-
-<div class="tab" id="content4">
-<p>
-📧 Email: <strong>seuemail@email.com</strong><br>
-💼 LinkedIn: <a href="https://linkedin.com" target="_blank">linkedin.com/in/seuperfil</a><br>
-🐙 GitHub: <a href="https://github.com/seuusuario">github.com/seuusuario</a>
-</p>
-</div>
-
-</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="35" width="45"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img align="center" alt="Spring" height="35" width="45"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
+  <img align="center" alt="HTML" height="35" width="45"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+  <img align="center" alt="CSS" height="35" width="45"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="center" alt="JavaScript" height="35" width="45"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+  <img align="center" alt="Git" height="35" width="45"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
 </div>
 
 ---
 
-<p align="center">
-🚀 Sempre aprendendo, sempre evoluindo.
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/VandersonTailor">
+    <img height="170em"
+      src="https://github-readme-stats.vercel.app/api?username=VandersonTailor&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="170em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonTailor&layout=compact&theme=dracula"/>
+  </a>
+</div>
+
+---
+
+## 🌐 Contato & Redes
+
+<div>
+  <a href="https://github.com/VandersonTailor" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+⭐ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
