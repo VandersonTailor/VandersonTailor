@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/VandersonTailor/VandersonTailor/blob/main/assets/julientromeur-cartoon-629.gif" width="400px" alt="GIF animado codando" />
+  <img src="https://github.com/VandersonTailor/VandersonTailor/blob/main/julientromeur-cartoon-629.gif" width="400px" alt="GIF animado codando" />
 </p>
 
 ---
