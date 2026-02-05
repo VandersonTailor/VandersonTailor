@@ -1,68 +1,61 @@
-# 👋 Olá, eu sou o Vanderson Tailor
-
-💻 **Desenvolvedor Back-end Java**  
-🚀 Focado em APIs REST, sistemas corporativos e boas práticas de desenvolvimento
-
-Sou apaixonado por tecnologia e estou em constante evolução, buscando escrever código limpo, escalável e bem estruturado.
-
----
-
-## 🧠 Sobre mim
-
-- ☕ Trabalho principalmente com **Java**
-- 🌱 Estudando **Spring Boot** e ecossistema Spring
-- 🏗️ Interesse em **APIs REST**, arquitetura de software e sistemas corporativos
-- 📚 Sempre aprendendo e aprimorando minhas habilidades técnicas
-- 🎯 Objetivo: crescer como desenvolvedor Back-end e atuar em projetos desafiadores
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Spring" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-  <img align="center" alt="HTML" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JavaScript" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Git" height="35" width="45"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <a href="https://github.com/VandersonTailor">
-    <img height="170em"
-      src="https://github-readme-stats.vercel.app/api?username=VandersonTailor&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="170em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VandersonTailor&layout=compact&theme=dracula"/>
-  </a>
+  <img src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" width="100px" alt="GitHub Readme Stats" />
+  <h1 style="font-size: 28px; margin: 10px 0;">Olá, eu sou Vanderson Pinheiro 👋</h1>
+  <p>Desenvolvedor Java | React | Automação e Sistemas Inteligentes</p>
 </div>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO/actions">
+    <img alt="GitHub Actions" src="https://github.com/SEU_USUARIO/workflows/Test/badge.svg" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO/SEU_REPO/graphs/contributors">
+    <img alt="Contributors" src="https://img.shields.io/github/contributors/SEU_USUARIO/SEU_REPO" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO/SEU_REPO/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/SEU_USUARIO/SEU_REPO?color=0088ff" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO/SEU_REPO/pulls">
+    <img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/SEU_USUARIO/SEU_REPO?color=0088ff" />
+  </a>
+</p>
 
 ---
 
-## 🌐 Contato & Redes
+## Sobre mim
 
-<div>
-  <a href="https://github.com/VandersonTailor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:seuemail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+Sou desenvolvedor com experiência em **Java, React, automação de processos e sistemas inteligentes**.  
+Apaixonado por tecnologia, otimização e soluções que transformam a maneira como sistemas e pessoas interagem.  
+Sempre aprendendo e contribuindo para projetos desafiadores, buscando crescimento contínuo. 💻✨
 
 ---
 
-⭐ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
+## Contato
+
+<p align="center">
+  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-seuemail@exemplo.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Vanderson%20Pinheiro-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/SEU_TWITTER"><img src="https://img.shields.io/badge/Twitter-@SEU_TWITTER-blue?style=flat-square&logo=twitter" alt="Twitter" /></a>
+</p>
+
+---
+
+## Tecnologias e Ferramentas
+
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
