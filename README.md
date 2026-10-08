@@ -1,54 +1,31 @@
-<h1 align="center">👋 Olá, eu sou Vanderson Tailor</h1>
-<h3 align="center">💻 Desenvolvedor Java • Estudando Spring Boot, APIs REST e SQL • Backend & Automação de Sistemas Inteligentes</h3>
+# Hi, I'm Vanderson Tailor Pinheiro
 
-<p align="center">
-  <img src="https://github.com/VandersonTailor/VandersonTailor/blob/main/programar.gif" width="400px" alt="GIF animado codando" />
-</p>
+**Full Stack Developer** from Brazil, working mainly with **Java / Spring Boot** and **Angular / React**, with **Node.js** and **Python** for automation.
 
----
+I build internal systems for an urban bus transport company in Porto Alegre: ticketing, recruitment, monitoring dashboards and WhatsApp automation. I also work in IT support and infrastructure (Active Directory, firewall monitoring), so I care about what happens to software after it is deployed.
 
-<p align="center">
-  Sou apaixonado por tecnologia, desenvolvimento backend e automação de sistemas inteligentes.  
-  Aqui você encontrará projetos, estudos e experimentos com Java, Spring Boot, APIs REST, SQL e muito mais 🚀
-</p>
+- Degree in Systems Analysis and Development (UNINTER, 2024)
+- Portuguese (native), English and Spanish (basic, improving)
+- **Open to relocation** to Portugal / EU (work visa required)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vanderson-tailor-boeira-pinheiro-595606245/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vanderson10boeira@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanderson-tailor-boeira-pinheiro-595606245/)
+[![Email](https://img.shields.io/badge/Email-vanderson10boeira%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vanderson10boeira@gmail.com)
 
----
+## Featured projects
 
-### 🧠 Sobre mim
+| Project | What it is | Stack |
+|---|---|---|
+| [Recrutamento](https://github.com/VandersonTailor/Recrutamento) | AI-assisted recruitment platform: reads résumés (PDF/DOCX), classifies candidates by role with a rules + LLM pipeline, ranks them per vacancy and tracks the hiring pipeline | Python, FastAPI, SQLAlchemy, React, Vite, Tailwind, Groq LLM, Redis, Prometheus |
+| [teste-integrado](https://github.com/VandersonTailor/teste-integrado) | Benefits CRUD and balance transfer with optimistic locking, Swagger docs, integration tests and CI | Java 17, Spring Boot 3, EJB, JPA, H2, Angular 21, GitHub Actions |
+| [Chamado](https://github.com/VandersonTailor/Chamado) | IT help-desk ticketing: web form, admin panel and a WhatsApp chatbot that opens tickets through a guided conversation | Node.js, Express, Baileys, WebSocket |
+| [MONITORAMENTO-BUS](https://github.com/VandersonTailor/MONITORAMENTO-BUS) | Passenger-flow dashboard: boarding and alighting data on interactive maps with routes and stops | JavaScript, Leaflet, GeoJSON |
+| [cadastro-usuario](https://github.com/VandersonTailor/cadastro-usuario) | User registration REST API in a layered architecture | Java, Spring Boot, Spring Data JPA, H2 |
+| [teste-qa-verzel](https://github.com/VandersonTailor/teste-qa-verzel) | QA technical test: Gherkin scenarios, bug reports with evidence and 48 automated API and UI tests | Playwright, TypeScript |
 
-- 🔭 Estudando e desenvolvendo projetos com Java, Spring Boot, APIs REST e SQL  
-- 💻 Apaixonado por backend, automação e sistemas inteligentes  
-- 📚 Sempre aprendendo novas tecnologias e boas práticas de programação  
-- 🎯 Objetivo: criar soluções eficientes e escaláveis para problemas reais  
+## Tech stack
 
----
-
-### 💻 Principais Tecnologias
-<p align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-</p>
-
----
-
-### 🟩 Mensagem Final
-
-
-<p align="center">
-  <em>Continue construindo. Um commit de cada vez. 🚀</em> 🟩
-</p>
+**Backend:** Java, Spring Boot, Spring Security, JPA/Hibernate, Node.js, Express, Python, FastAPI
+**Frontend:** Angular, React, TypeScript, JavaScript, HTML, CSS, Tailwind
+**Data:** PostgreSQL, MySQL, H2, SQLite
+**Tools:** Git, GitHub Actions, Docker, Playwright, Maven
+**Infrastructure:** Active Directory, firewall and Syslog monitoring
