@@ -55,5 +55,8 @@ I build internal systems for an urban bus transport company in Porto Alegre: tic
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VandersonTailor&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VandersonTailor/VandersonTailor/output/github-snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/VandersonTailor/VandersonTailor/output/github-snake.svg" />
+  </picture>
 </p>
